@@ -1,0 +1,31 @@
+.leftPanel{
+	display: inline-block;
+	width: 20%;
+    float: left;
+    background-color: aquamarine;
+    padding: 10px 10px 100%;
+        
+}
+
+.mainPanel{
+	display: inline-block;
+/*	border: solid red 1px;*/
+    width: 60%;
+	color: #ffffff;
+    float: right;
+    background-color: yellowgreen;
+    padding: 10px;
+}
+
+#title{
+	text-align: center;
+	color: #ffffff;
+}
+
+html{
+	background: url(../pic/run.jpg);
+}
+
+.container{
+    width: 90%;
+}
